@@ -5,8 +5,16 @@
 </p>
 
 <p align="center">
-  I build intelligent systems that blend <b>AI, software engineering, and embedded hardware</b> to solve real-world problems — taking ideas from concept all the way to deployment.
+  I build intelligent systems that blend <b>AI, Software Engineering, and Edge Intelligence</b> to solve real-world problems — taking ideas from concept all the way to deployment.
 </p>
+
+---
+
+## About Me
+- ⚙️ I turn ambitious ideas into working tech. AI, software, Edge Intelligence: if it's hard and worth building, I'm in.
+- 🚀 From training models to deploying them on resource-constrained devices, I love bringing multiple domains together to ship real products.
+- 🔭 Exploring: Agentic AI, Edge AI/TinyML, Golang backends, and AI for FinTech.
+- 🏀 Beyond code: basketball, football, sci-fi films, and chasing the next big idea.
 
 ---
 
@@ -47,6 +55,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 > REST APIs · Authentication Systems
 
